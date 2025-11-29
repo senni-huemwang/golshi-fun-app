@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=golshi fun app
+Comment=fun golshi app
+Exec=pkexec /usr/local/bin/golshi-fun-app
+Icon=/usr/share/icons/golshi-fun-app.png
+Terminal=true
+Type=Application
+Categories=System;Utility;
+StartupNotify=true
+Keywords=crash;sysrq;panic;fun;golshi;umamusume;
