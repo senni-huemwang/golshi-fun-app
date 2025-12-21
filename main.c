@@ -4,6 +4,7 @@
 
 #define SYSRQ_PATH "/proc/sysrq-trigger"
 #define CRASH_COMMAND 'c'
+#define INARI 1
 
 int main() {
     if (geteuid() != 0) {
