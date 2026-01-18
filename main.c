@@ -29,6 +29,7 @@ int main() {
 
     fclose(fp);
     printf("If you see this message, the command failed. The system did not crash.\n");
+    printf("Gold Ship : GAAHHHHHHHH!\n");
 
     return 0;
 }
